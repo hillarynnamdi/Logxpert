@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<customers>
+  <customer>
+    <FirstName>Hillary</FirstName>
+    <LastName>Nnamdi</LastName>
+    <Email>hillarynnamdievans@gmail.com</Email>
+    <Gender>Male</Gender>
+  </customer>
+  <customer>
+    <FirstName>Hillary</FirstName>
+    <LastName>Nnamdi</LastName>
+    <Email>hillarynnamdi@gmail.com</Email>
+    <Gender>Male</Gender>
+  </customer>
+</customers>

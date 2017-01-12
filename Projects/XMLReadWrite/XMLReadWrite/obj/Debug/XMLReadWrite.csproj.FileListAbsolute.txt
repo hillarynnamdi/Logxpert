@@ -1,0 +1,9 @@
+c:\users\hillary-evans\documents\visual studio 2015\Projects\XMLReadWrite\XMLReadWrite\bin\Debug\XMLReadWrite.exe.config
+c:\users\hillary-evans\documents\visual studio 2015\Projects\XMLReadWrite\XMLReadWrite\bin\Debug\XMLReadWrite.exe
+c:\users\hillary-evans\documents\visual studio 2015\Projects\XMLReadWrite\XMLReadWrite\bin\Debug\XMLReadWrite.pdb
+c:\users\hillary-evans\documents\visual studio 2015\Projects\XMLReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.csprojResolveAssemblyReference.cache
+c:\users\hillary-evans\documents\visual studio 2015\Projects\XMLReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.Form1.resources
+c:\users\hillary-evans\documents\visual studio 2015\Projects\XMLReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.Properties.Resources.resources
+c:\users\hillary-evans\documents\visual studio 2015\Projects\XMLReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.csproj.GenerateResource.Cache
+c:\users\hillary-evans\documents\visual studio 2015\Projects\XMLReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.exe
+c:\users\hillary-evans\documents\visual studio 2015\Projects\XMLReadWrite\XMLReadWrite\obj\Debug\XMLReadWrite.pdb

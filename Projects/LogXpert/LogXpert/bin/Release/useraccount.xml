@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<user>
+  <FirstName>Hillary</FirstName>
+  <LastName>Nnamdi</LastName>
+  <Gender>Female</Gender>
+  <Email>hillarynnamdievans@gmail.com</Email>
+  <Password>hillary</Password>
+  <Verification>False</Verification>
+  <VerificationCode></VerificationCode>
+  <VerificationSent></VerificationSent>
+  <VerificationNotifier>Off</VerificationNotifier>
+  <AutoLogin>On</AutoLogin>
+  <MaskPassword>False</MaskPassword>
+  <MaskPasswordDialog>On</MaskPasswordDialog>
+  <UnmaskingAuthentication>On</UnmaskingAuthentication>
+  <LastBackUp />
+</user>
